@@ -27,13 +27,13 @@
 .btn__play {
     width: 55px;
     height: 55px;
-    background-image: url(../img/player/play.png);
+    background-image: url(../Img/player/play.png);
     background-repeat: no-repeat;
     background-position: 60% center;
 }
 
 .btn__play:hover {
-    background-image: url(../img/player/play-hover.png);
+    background-image: url(../Img/player/play-hover.png);
 }
 
 .player__track {
@@ -86,13 +86,13 @@
 }
 
 .btn__prev {
-    background-image: url(../img/player/prev.png);
+    background-image: url(../Img/player/prev.png);
     background-repeat: no-repeat;
     background-position: center;
 }
 
 .btn__prev:hover {
-    background-image: url(../img/player/prev-hover.png);
+    background-image: url(../Img/player/prev-hover.png);
 }
 
 .btn__next {
@@ -102,7 +102,7 @@
 }
 
 .btn__next:hover {
-    background-image: url(../img/player/next-hover.png);
+    background-image: url(../Img/player/next-hover.png);
 }
 
 .btn__repeat {
@@ -112,11 +112,11 @@
 }
 
 .btn__repeat:hover {
-    background-image: url(../img/player/repeat-hover.png);
+    background-image: url(../Img/player/repeat-hover.png);
 }
 
 .btn__playlist {
-    background-image: url(../img/player/playlist.png);
+    background-image: url(../Img/player/playlist.png);
     background-repeat: no-repeat;
     background-position: center;
 }
